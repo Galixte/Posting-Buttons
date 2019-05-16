@@ -23,7 +23,7 @@
 	background-image:  url("./images/text_underline.png");
 }
 
-#comment {	
+#comments {	
 	background-image:  url("./images/comment.png");
 }
 
@@ -43,8 +43,8 @@
 	background-image:  url("./images/bullet_black.png");
 }
 
-#image{	
-	background-image:  url("./images/image.png");
+#images{	
+	background-image:  url("./images/images.png");
 }
 
 #world_link{	

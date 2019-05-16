@@ -3,7 +3,7 @@
 *
 * Posting Buttons extension for the phpBB Forum Software package.
 *
-* @copyright (c) 2014 dmzx <http://www.dmzx-web.net>
+* @copyright (c) 2014 dmzx <http://www.dmzx-web.net>; Estonian translation by phpBBeesti.com 05/2015
 * @license GNU General Public License, version 2 (GPL-2.0)
 *
 */
@@ -38,5 +38,5 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'CUSTOM_BBCODES'	=> 'BBCode personalizzati',
+	'CUSTOM_BBCODES'	=> 'Kohandatud BBkoodid',
 ));

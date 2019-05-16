@@ -19,14 +19,12 @@ use Symfony\Component\EventDispatcher\EventSubscriberInterface;
 */
 class listener implements EventSubscriberInterface
 {
-
 	static public function getSubscribedEvents()
 	{
 		return array(
 			'core.user_setup' => 'load_language_on_setup',
 		);
 	}
-
 
 	public function load_language_on_setup($event)
 	{
